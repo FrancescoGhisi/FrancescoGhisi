@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FrancescoGhisi
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning Java, Python and Web Development
 - 📫 How to reach me: francescoghisi@outlook.com
 - 🧑‍💻 I'm currently studying Computer Science at UNISUL
 <!---
